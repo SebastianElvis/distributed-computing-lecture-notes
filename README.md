@@ -18,6 +18,7 @@ This repository collects lecture notes on Distributed Computing that are publicl
 - [Concurrent Algorithms](https://dcl.epfl.ch/site/education/ca_2019) from EPFL
 - [Distributed Algorithms](https://dcl.epfl.ch/site/education/da) from EPFL
 - [Distributed Systems](http://courses.mpi-sws.org/ds-ws16/schedule.html) from MPI-SWS
+- [Consensus Protocols in Distributed Computing and Blockchains](https://sites.duke.edu/compsci590_04_f2019/schedule/) from Duke
 
 ## Misc
 
