@@ -6,6 +6,7 @@ This repository collects lecture notes on Distributed Computing that are publicl
 
 - [Introduction to Reliable and Secure Distributed Programming](https://github.com/ChrisLinn/chrislinn.ink/tree/master/res/IntroductionToReliableAndSecur_Book_2011.pdf) by Christian Cachin, Rachid Guerraoui, and Luís Rodrigues
 - [Distributed Algorithms](http://read.pudn.com/downloads95/ebook/386159/Distributed.Algorithms.pdf) by Nancy Lynch
+- [Notes on Theory of Distributed Systems](https://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) by James Aspnes
 
 ## Courses
 
