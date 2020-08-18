@@ -10,6 +10,7 @@ This repository collects lecture notes on Distributed Computing that are publicl
 - [Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) by James Aspnes
 - [Lecture Notes on Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf) by Roger Wattenhofer
 - [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) by Elaine Shi
+- [Lecture Notes for MIT 6.852 (Distributed Algorithms)](https://labs.xjtudlc.com/labs/wldmt1/books/Distributed%20and%20parallel%20algorithms/Distributed_Algorithms_(%e4%b8%ad%e6%96%87%e5%90%8d%ef%bc%9a%e5%88%86%e5%b8%83%e5%bc%8f%e7%ae%97%e6%b3%95).pdf)
 
 ## Courses
 
@@ -22,7 +23,6 @@ This repository collects lecture notes on Distributed Computing that are publicl
 - [Concurrent Algorithms](https://dcl.epfl.ch/site/education/ca_2019) from EPFL
 - [Distributed Algorithms](https://dcl.epfl.ch/site/education/da) from EPFL
 - [Distributed Systems](http://courses.mpi-sws.org/ds-ws16/schedule.html) from MPI-SWS
-- [Distributed Computing](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) from Yale
 - [Consensus Protocols in Distributed Computing and Blockchains](https://sites.duke.edu/compsci590_04_f2019/schedule/) from Duke
 
 ## Misc
