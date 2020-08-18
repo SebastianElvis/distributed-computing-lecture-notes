@@ -9,6 +9,7 @@ This repository collects lecture notes on Distributed Computing that are publicl
 - [Notes on Theory of Distributed Systems](https://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) by James Aspnes
 - [Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) by James Aspnes
 - [Lecture Notes on Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf) by Roger Wattenhofer
+- [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) by Elaine Shi
 
 ## Courses
 
