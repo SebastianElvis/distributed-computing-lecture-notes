@@ -4,13 +4,14 @@ This repository collects lecture notes on Distributed Computing that are publicl
 
 ## Books
 
-- [Introduction to Reliable and Secure Distributed Programming](https://github.com/ChrisLinn/chrislinn.ink/tree/master/res/IntroductionToReliableAndSecur_Book_2011.pdf) by Christian Cachin, Rachid Guerraoui, and Luís Rodrigues
+- [Introduction to Reliable and Secure Distributed Programming](https://github.com/KevinB5/SEC25/raw/master/Book/Introduction%20to%20Reliable%20and%20Secure%20Distributed%20Programming.pdf) by Christian Cachin, Rachid Guerraoui, and Luís Rodrigues
 - [Distributed Algorithms](http://read.pudn.com/downloads95/ebook/386159/Distributed.Algorithms.pdf) by Nancy Lynch
 - [Notes on Theory of Distributed Systems](https://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) by James Aspnes
 - [Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) by James Aspnes
 - [Lecture Notes on Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf) by Roger Wattenhofer
 - [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) by Elaine Shi
-- [Lecture Notes for MIT 6.852 (Distributed Algorithms)](https://labs.xjtudlc.com/labs/wldmt1/books/Distributed%20and%20parallel%20algorithms/Distributed_Algorithms_(%e4%b8%ad%e6%96%87%e5%90%8d%ef%bc%9a%e5%88%86%e5%b8%83%e5%bc%8f%e7%ae%97%e6%b3%95).pdf)
+- [Lecture Notes for MIT 6.852 (Distributed Algorithms)](https://labs.xjtudlc.com/labs/wldmt1/books/Distributed%20and%20parallel%20algorithms/Distributed_Algorithms_(%e4%b8%ad%e6%96%87%e5%90%8d%ef%bc%9a%e5%88%86%e5%b8%83%e5%bc%8f%e7%ae%97%e6%b3%95).pdf) by Nancy Lynch
+- [Lecture Notes for UIUC CS598CAL (Consensus Algorithms)](https://drive.google.com/drive/u/0/folders/1Vo3UPK4lamunGVtV9boVQbkteaiFLPaY) by Ling Ren
 
 ## Courses
 
@@ -24,6 +25,8 @@ This repository collects lecture notes on Distributed Computing that are publicl
 - [Distributed Algorithms](https://dcl.epfl.ch/site/education/da) from EPFL
 - [Distributed Systems](http://courses.mpi-sws.org/ds-ws16/schedule.html) from MPI-SWS
 - [Consensus Protocols in Distributed Computing and Blockchains](https://sites.duke.edu/compsci590_04_f2019/schedule/) from Duke
+- [Consensus Algorithms](https://sites.google.com/view/cs598cal) from UIUC
+
 
 ## Misc
 
