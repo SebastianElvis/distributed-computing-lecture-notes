@@ -30,6 +30,8 @@ This repository collects lecture notes on Distributed Computing that are publicl
 
 ## Misc
 
-- [rxin/db-readings](https://github.com/rxin/db-readings)
+- [Foundational distributed systems papers](https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html?m=1) by Murat Demirbas
+- [Distributed consensus reading list](https://github.com/heidihoward/distributed-consensus-reading-list) by Heidi Howard
+- [Readings in Databases](https://github.com/rxin/db-readings) by Reynold Xin
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
