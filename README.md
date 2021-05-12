@@ -26,7 +26,7 @@ This repository collects lecture notes on Distributed Computing that are publicl
 - [Distributed Systems](http://courses.mpi-sws.org/ds-ws16/schedule.html) from MPI-SWS
 - [Consensus Protocols in Distributed Computing and Blockchains](https://sites.duke.edu/compsci590_04_f2019/schedule/) from Duke
 - [Consensus Algorithms](https://sites.google.com/view/cs598cal) from UIUC
-
+- [Principles of Blockchains](https://courses.grainger.illinois.edu/ece598pv/sp2021/) from UIUC
 
 ## Misc
 
