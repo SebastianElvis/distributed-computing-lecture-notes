@@ -27,6 +27,7 @@ This repository collects lecture notes on Distributed Computing that are publicl
 - [Consensus Protocols in Distributed Computing and Blockchains](https://sites.duke.edu/compsci590_04_f2019/schedule/) from Duke
 - [Consensus Algorithms](https://sites.google.com/view/cs598cal) from UIUC
 - [Principles of Blockchains](https://courses.grainger.illinois.edu/ece598pv/sp2021/) from UIUC
+- [Internet-Scale Consensus in the Blockchain Era](https://web.stanford.edu/class/ee374/) from Stanford
 
 ## Misc
 
